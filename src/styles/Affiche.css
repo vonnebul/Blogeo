@@ -1,0 +1,16 @@
+footer{
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+}
+
+.blogeoAffiche {
+	color: white;
+	background-color: #538397;
+	padding: 32px;
+	padding-bottom: 16px;
+	padding-top: 5px;
+}
+.liste{
+	list-style: none;
+}

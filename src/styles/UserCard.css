@@ -1,0 +1,16 @@
+ul{
+margin: 0;
+padding: 0;
+display: flex;
+flex-direction: column;
+align-items:center;
+}
+
+.main{
+    min-height:100%;
+    position:relative;
+    padding-bottom:100px;
+}
+.espacement{
+    padding: 50px;
+}

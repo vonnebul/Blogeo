@@ -1,0 +1,33 @@
+
+.blue_card{
+    list-style: none;
+    background-color: #538397;
+    border-radius: 10px;
+    color: white;
+    width: 80%;
+    padding: 40px;
+    margin: 10px;
+    margin-left: 5%;
+    margin-right: 5%;
+    display: inline-block;
+}
+
+.white_card{
+    list-style: none;
+    background-color: white;
+    border-radius: 10px;
+    border:1px solid #538397;
+    color: #538397;
+    width: 80%;
+    margin: 10px;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 40px;
+    display: inline-block;
+}
+.right{
+    text-align: right !important;
+    font-weight: bold;
+    float: right;
+
+}
