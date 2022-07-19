@@ -6,7 +6,7 @@ import FormBlog from "./FormBlog";
 import { useState } from "react";
 
 function App() {
-  const [input_name, setInputName]= useState('michel')
+  const [input_name, setInputName]= useState('timothé')
   return (
           <div>
             <Banniere>
